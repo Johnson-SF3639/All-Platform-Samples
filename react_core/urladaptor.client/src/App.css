@@ -1,0 +1,12 @@
+﻿
+
+.e-invalid {
+    border: 1px solid red; /* Add border to indicate error */
+}
+
+.e-control, .e-css, .e-error {
+    font-family: "Segoe UI", -apple-system, blinkMacSystemfont, "Roboto", "Helvetica Neue", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+}
+
